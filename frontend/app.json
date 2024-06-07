@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Bid2Scale",
+    "slug": "Bid2Scale",
+    "android":{"softwareKeyboardLayoutMode": "pan"},
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
