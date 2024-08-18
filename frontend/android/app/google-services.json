@@ -28,6 +28,7 @@
       ],
       "api_key": [
         {
+	    //Place google services API Key
           "current_key": "Your API Key"
         }
       ],
